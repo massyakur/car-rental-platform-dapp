@@ -1,5 +1,7 @@
 # BNB Smart Chain Truffle Box
 
+https://testnet.bscscan.com/address/0x30CE2a598590430A16b6993112C9924B39cC3042
+
 - [BNB Smart Chain Truffle Box](#bnb-smart-chain-truffle-box)
   - [Requirements](#requirements)
   - [Installation](#installation)
